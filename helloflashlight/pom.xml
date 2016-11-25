@@ -42,6 +42,10 @@
           <sdk>
             <platform>25</platform>
           </sdk>
+          <emulator>
+            <avd>AVD_for_Nexus_S_by_Google</avd>
+            <wait>60000</wait>
+          </emulator>
         </configuration>
       </plugin>
     </plugins>
