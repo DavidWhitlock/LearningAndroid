@@ -40,7 +40,7 @@
         <artifactId>android-maven-plugin</artifactId>
         <configuration>
           <sdk>
-            <platform>25</platform>
+            <platform>24</platform>
           </sdk>
           <emulator>
             <avd>AVD_for_Nexus_S_by_Google</avd>
