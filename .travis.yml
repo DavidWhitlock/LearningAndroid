@@ -4,5 +4,5 @@ android:
     - tools
     - tools # https://github.com/travis-ci/travis-ci/issues/6059
     - platform-tools
-    - android-23
-    - build-tools-23.0.3
+    - android-25
+    - build-tools-23.2.3
